@@ -1,1 +1,1 @@
-[seed:direct-push-classic:r2b]
+[seed:direct-push-classic:r2c]
